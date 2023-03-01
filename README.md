@@ -4,7 +4,7 @@ Population Genetics Simulations of the antibiotic resistance evolution
 
 In a nutshell:
 
-In these simulations, we model phenotypic evolution, which in our case is antibiotic resistance. We first divide the phenotypic space into n different states and assume that each individual (e.g., protein) within a population can transition from one state into another by the joint act of mutation and selection. We calculate the transition probabilities based on an empirical fitness landscape and start a Markov Chain simulation with n states and m chains. Each chain corresponds to an individual. Please check and cite this approach in our recent evolutionary simulations of fluorescence intensity (https://www.nature.com/articles/s41559-022-01797-w).
+In these simulations, we model phenotypic evolution, which in our case is antibiotic resistance. We first divide the phenotypic space into n different states and assume that each individual (e.g., protein) within a population can transition from one state into another by the joint act of mutation and selection. We calculate the transition probabilities based on an empirical fitness landscape and start a Markov Chain simulation with n states and m chains. Each chain corresponds to an individual. Please check and cite this approach in our recent evolutionary simulations of fluorescence proteins (https://www.nature.com/articles/s41559-022-01797-w).
 
 
 

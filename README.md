@@ -26,7 +26,7 @@ The transition probability between every two states (i, and j) is the product of
 
 (Equation 2)
 
-We calculated P_mutation (i →j), i.e., the probability that VIM-2 transitions from the state ith to jth with single point mutations, from experimentally determined DME distribution47,49. The second term, P_selection (i →j), shows the fixation probability of such mutations. To estimate this probability, we related EC50 to fitness (Equation 1), and calculated the selection coefficient of any arising mutation on the wtVIM-2 background as:
+We calculated P_mutation (i →j), i.e., the probability that VIM-2 transitions from the state ith to jth with single point mutations, from experimentally determined DME distribution. The second term, P_selection (i →j), shows the fixation probability of such mutations. To estimate this probability, we related EC50 to fitness (Equation 1), and calculated the selection coefficient of any arising mutation on the wtVIM-2 background as:
 
 ![Screen Shot 2023-02-28 at 9 31 49 AM](https://user-images.githubusercontent.com/6492012/221797621-00898d2c-cfcf-438b-a120-8ddc5d6251d1.png)
 

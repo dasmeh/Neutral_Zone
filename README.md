@@ -40,5 +40,8 @@ Here, [C] is the concentration of ampicillin in the media which takes the values
 
 where Neff is the effective population size and is 104 in our simulations which is ~ equal to the number of colonies sampled from LB-agar plates in each generation. We started the simulations with 104 Markov chains all starting from a single state (i.e., initial EC50 value), and let these states evolve according to the transition probabilities and recorded their states after 100 rounds of mutation and selection.
 
+
+Sofwarare version: R (v4.2.1)
+
 (©2023 Pouria Dasmeh, Center for Human Genetics, Marburg University, dasmeh@staff.uni-marburg.de)
 (Department of Chemistry and Chemical Biology, Harvard University, dasmeh@fas.harvard.edu)
